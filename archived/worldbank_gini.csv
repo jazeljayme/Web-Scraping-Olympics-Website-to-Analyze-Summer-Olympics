@@ -1,0 +1,168 @@
+﻿country_name,country_code,mean_gini_index_wb
+Slovenia,SVN,24.86666667
+Czech Republic,CZE,25.89473684
+Slovak Republic,SVK,26.49285714
+Denmark,DNK,26.495
+Finland,FIN,26.795
+Norway,NOR,27.0047619
+Sweden,SWE,27.23478261
+Ukraine,UKR,27.69545455
+Iceland,ISL,27.80666667
+Belarus,BLR,27.95454545
+Belgium,BEL,28.00454545
+Netherlands,NLD,28.665
+Kosovo,XKX,29.01666667
+Iraq,IRQ,29.05
+Malta,MLT,29.08461538
+United Arab Emirates,ARE,29.25
+Azerbaijan,AZE,29.41666667
+Hungary,HUN,29.86666667
+Austria,AUT,29.96190476
+Kyrgyz Republic,KGZ,30.085
+Kazakhstan,KAZ,30.32105263
+Bangladesh,BGD,30.35555556
+Germany,DEU,30.4047619
+Timor-Leste,TLS,30.8
+"Egypt, Arab Rep.",EGY,31.06666667
+Luxembourg,LUX,31.07619048
+Albania,ALB,31.41111111
+Croatia,HRV,31.6
+Pakistan,PAK,31.62307692
+"Korea, Rep.",KOR,31.7
+Lebanon,LBN,31.8
+Tajikistan,TJK,32.13333333
+Armenia,ARM,32.245
+France,FRA,32.41904762
+Bosnia and Herzegovina,BIH,32.525
+Cyprus,CYP,32.56
+Estonia,EST,32.75625
+Moldova,MDA,32.95
+Mongolia,MNG,33
+Switzerland,CHE,33.05294118
+Canada,CAN,33.12222222
+Poland,POL,33.17333333
+Japan,JPN,33.26666667
+Ireland,IRL,33.26666667
+Australia,AUS,33.42
+India,IND,33.65
+Algeria,DZA,34.36666667
+United Kingdom,GBR,34.4
+Myanmar,MMR,34.4
+Italy,ITA,34.43913043
+Ethiopia,ETH,34.52
+West Bank and Gaza,PSE,34.525
+Spain,ESP,34.57619048
+Greece,GRC,34.66111111
+Indonesia,IDN,34.72962963
+Nauru,NRU,34.8
+Sudan,SDN,34.8
+Liberia,LBR,35
+Lao PDR,LAO,35.33333333
+"Yemen, Rep.",YEM,35.46666667
+Lithuania,LTU,35.82666667
+Latvia,LVA,35.83333333
+Vietnam,VNM,36.09090909
+Jordan,JOR,36.15714286
+Portugal,PRT,36.28125
+Romania,ROU,36.30769231
+Syrian Arab Republic,SYR,36.35
+Sierra Leone,SLE,36.63333333
+Sri Lanka,LKA,36.7875
+Somalia,SOM,36.8
+Burundi,BDI,36.9
+North Macedonia,MKD,36.92
+Bulgaria,BGR,36.93076923
+Kiribati,KIR,37
+Mauritius,MUS,37
+Maldives,MDV,37
+Nepal,NPL,37.26666667
+Uzbekistan,UZB,37.275
+Niger,NER,37.51666667
+Tonga,TON,37.6
+Vanuatu,VUT,37.6
+Georgia,GEO,38.17083333
+Tanzania,TZA,38.24
+Fiji,FJI,38.4
+Bhutan,BTN,38.8
+Tunisia,TUN,38.91428571
+Tuvalu,TUV,39.1
+Israel,ISR,39.16363636
+Serbia,SRB,39.23333333
+Montenegro,MNE,39.3
+Seychelles,SYC,39.45
+China,CHN,39.71538462
+Sao Tome and Principe,STP,39.73333333
+Morocco,MAR,39.76666667
+Ghana,GHA,39.78571429
+Russian Federation,RUS,39.82916667
+Mauritania,MRT,39.88571429
+United States,USA,40.01290323
+Gabon,GAB,40.1
+Samoa,WSM,40.46666667
+Thailand,THA,40.544
+Mali,MLI,40.55
+Cote d'Ivoire,CIV,40.59
+Turkmenistan,TKM,40.8
+Turkey,TUR,40.935
+Haiti,HTI,41.1
+"Micronesia, Fed. Sts.",FSM,41.25
+Trinidad and Tobago,TTO,41.45
+Chad,TCD,41.55
+Solomon Islands,SLB,41.6
+Guinea,GIN,41.8
+"Iran, Islamic Rep.",IRN,42.08461538
+"Congo, Dem. Rep.",COD,42.15
+Nigeria,NGA,42.3
+Uruguay,URY,42.6
+Jamaica,JAM,42.61428571
+Uganda,UGA,42.65555556
+Djibouti,DJI,42.7
+Madagascar,MDG,42.8125
+Senegal,SEN,43.24
+Benin,BEN,43.26666667
+Burkina Faso,BFA,43.28
+Guinea-Bissau,GNB,43.3
+Togo,TGO,43.76666667
+"Gambia, The",GMB,43.825
+Papua New Guinea,PNG,43.85
+Cameroon,CMR,43.975
+Guyana,GUY,45.1
+South Sudan,SSD,45.2
+Malaysia,MYS,45.84166667
+Philippines,PHL,45.88571429
+Argentina,ARG,45.92258065
+Zimbabwe,ZWE,45.93333333
+El Salvador,SLV,46.216
+Kenya,KEN,46.58
+St. Lucia,LCA,46.9
+Rwanda,RWA,47.3
+Cabo Verde,CPV,47.36666667
+Costa Rica,CRI,47.54242424
+Peru,PER,47.87826087
+"Venezuela, RB",VEN,48.00769231
+Dominican Republic,DOM,48.044
+"Congo, Rep.",COG,48.1
+Angola,AGO,48.66666667
+Malawi,MWI,48.975
+Ecuador,ECU,49.62
+Mexico,MEX,49.86470588
+Mozambique,MOZ,50.05
+Comoros,COM,50.6
+Nicaragua,NIC,50.6
+Paraguay,PRY,50.86956522
+Chile,CHL,51.01428571
+Bolivia,BOL,51.3
+Zambia,ZMB,52.68888889
+Panama,PAN,53.62962963
+Colombia,COL,53.82380952
+Honduras,HND,53.90666667
+Lesotho,LSO,53.925
+Eswatini,SWZ,54.925
+Guatemala,GTM,55
+Brazil,BRA,56.74571429
+Belize,BLZ,57.73333333
+Suriname,SUR,57.9
+Botswana,BWA,58.7
+Central African Republic,CAF,58.75
+Namibia,NAM,61.13333333
+South Africa,ZAF,61.71428571
